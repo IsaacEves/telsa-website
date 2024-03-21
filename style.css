@@ -1,0 +1,22 @@
+.top{
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+} 
+
+.everything {
+    width: 100vw;
+    height: 92vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+body {
+    background-image: url('https://media.ed.edmunds-media.com/tesla/model-s/2024/oem/2024_tesla_model-s_sedan_plaid_fq_oem_5_815x543.jpg');
+}
+.image { 
+    height: 50px;
+    width: 50px;
+}
